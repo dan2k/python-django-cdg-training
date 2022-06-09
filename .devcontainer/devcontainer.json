@@ -31,7 +31,15 @@
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"ms-python.python",
-				"ms-python.vscode-pylance"
+				"ms-python.vscode-pylance",
+				"HookyQR.beautify",
+				"anseki.vscode-color",
+				"JerryHong.autofilename",
+				"vscode-icons-team.vscode-icons",
+				"thekalinga.bootstrap4-vscode",
+				"vincaslt.highlight-matching-tag",
+				"batisteo.vscode-django",
+				"ritwickdey.LiveServer"
 			]
 		}
 	},
