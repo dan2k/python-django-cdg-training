@@ -3,7 +3,7 @@ ARG VARIANT=3-bullseye
 FROM mcr.microsoft.com/vscode/devcontainers/python:0-${VARIANT}
 
 WORKDIR /workspace
-ADD requirements.txt /workspace/
+#ADD requirements.txt /workspace/
 
 ENV PYTHONUNBUFFERED 1
 
@@ -22,6 +22,6 @@ RUN if [ "${NODE_VERSION}" != "none" ]; then su vscode -c "umask 0002 && . /usr/
 
 #RUN pip install -r requirements.txt
 
-RUN pip3 install -r requirements.txt
-ADD . /workspace/
+#RUN pip3 install -r requirements.txt
+#ADD . /workspace/
 
