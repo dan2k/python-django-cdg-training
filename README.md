@@ -9,3 +9,6 @@ django ใช้ได้กับ python 3.8 >
 pip list เช็ก package
 python -m venv env #สร้าง virtual environment
 source env/bin/activate # activate environment
+PEP8  มาตราฐานการเขียน python
+python -m  pip install -U  autopep8   #ลงให้จัด format ให้
+
