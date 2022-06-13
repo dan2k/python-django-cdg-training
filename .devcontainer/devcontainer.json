@@ -39,7 +39,8 @@
 				"thekalinga.bootstrap4-vscode",
 				"vincaslt.highlight-matching-tag",
 				"batisteo.vscode-django",
-				"ritwickdey.LiveServer"
+				"ritwickdey.LiveServer",
+				"formulahendry.auto-close-tag"
 			]
 		}
 	},
