@@ -40,7 +40,8 @@
 				"vincaslt.highlight-matching-tag",
 				"batisteo.vscode-django",
 				"ritwickdey.LiveServer",
-				"formulahendry.auto-close-tag"
+				"formulahendry.auto-close-tag",
+				"formulahendry.code-runner"
 			]
 		}
 	},
