@@ -1,2 +1,7 @@
 หลักสูตร Basic Python Django [เรียนผ่าน Cisco Webex Conference]
 13-15/06/2565
+คำสั่ง
+python --version ดูเวอร์ชั่น
+pip --version เป็นตัวติดตั้ง package ของ python
+ใช้ python 3.10.4
+django ใช้ได้กับ python 3.8 >
