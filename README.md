@@ -12,3 +12,7 @@ source env/bin/activate # activate environment
 PEP8  มาตราฐานการเขียน python
 python -m  pip install -U  autopep8   #ลงให้จัด format ให้
 
+input  รับทุกอย่างเข้ามาเป็น string เท่านัี้น
+switch case ไม่มีใช้ใน python ใช้ match case แทน
+
+loop ไม่มี x++ ต้องใช้ x+1
