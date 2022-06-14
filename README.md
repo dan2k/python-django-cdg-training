@@ -17,4 +17,6 @@ switch case ไม่มีใช้ใน python ใช้ match case แทน
 
 loop ไม่มี x++ ต้องใช้ x+1
 deactivate ออกจาก virtual environment
-
+ต้องมี flodler __init__.py อยู่ข้างในถึงจะรู้ว่า package
+pip freeze > requirements.txt #export ชื่อ libery ในโปรเจ็ค
+pip install -r requirements.txt  #ลงใหม่จาก requirements.txt
